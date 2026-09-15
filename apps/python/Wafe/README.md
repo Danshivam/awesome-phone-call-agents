@@ -10,7 +10,7 @@ A user starts a **Walk Me Home** session. WAFE initiates a phone conversation, s
 
 The voice/calling layer is powered by **CALL-E**, but CALL-E is an internal implementation detail. The user-facing product is WAFE.
 
-## Why it matters
+## Why it matters.
 
 Most personal-safety tools require the user to actively press an SOS button, watch a screen, or use additional hardware. WAFE takes a different approach: **the conversation itself becomes part of the safety interface**.
 
